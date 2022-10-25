@@ -5,6 +5,8 @@ El desafío es desarrollar esta página de inicio y lograr que se parezca lo má
 - HTML
 - CSS
 - JS Vanilla (with animejs library)
+- 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/197860352-21babcd5-790a-43c1-a641-b7572440d40b.jpg)
 
 # Guía de Estilo
 
